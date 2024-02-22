@@ -12,8 +12,8 @@
 | ---------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------- |
 | [React Styled Components](https://styled-components.com/docs/basics)                               | npm i/yarn add styled-components                                  | [Take a look at my portfolio](https://kaplanh.github.io/Portfolio_with_CssFlex/)                                                                                 |
 |  [React icons](https://www.npmjs.com/package/react-icons)        |             |     [Visit me on Linkedin](https://www.linkedin.com/in/kaplan-h/)                                                                              |
-|  Deploy with [Vercel](https://vercel.com/kaplanh)        |             |                                                                                  |
 | [Semantic-Commits](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) |                                   |                                                                                  |
+|  Deploy with [Vercel](https://vercel.com/kaplanh)        |             |                                                                                  |
 
 ---
 
@@ -126,7 +126,7 @@ OR
 
 ### At the end of the project, the following topics are to be covered;
 
-- styled-components  <ThemeProvider theme={theme}>
+- styled-components  ThemeProvider & theme
 
 ```jsx
 import Header from "./components/Header";
