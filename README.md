@@ -2,7 +2,7 @@
 
 [:point_right: Click here to see on browser]()
 
-![react-styled-components](https://github.com/kaplanh/React-Styled-Components/assets/101884444/32628390-a1ef-4fea-a2d6-59aa87784f5c)
+![react styled-components](https://github.com/kaplanh/React-Styled-Components/assets/101884444/c9973af2-a959-421d-ae77-4fb20b17b340)
 
 
 
